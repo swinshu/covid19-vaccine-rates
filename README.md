@@ -1,13 +1,12 @@
 # covid19-vaccine_rates
-
-- Acquire data
+[x] Acquire data
     - Gap data
     - Vaccination data
-- Clean data
+[x] Clean data
     - Merge data sets 
-- Visualize 
+[x] Visualize 
     - A graph 
-- Statistical analysis
+[ ] Statistical analysis
     - Linear regression
     - Logistic regression
-- Put in GitHub or deploy
+[ ] Put in GitHub or deploy
